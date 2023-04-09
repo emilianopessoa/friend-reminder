@@ -17,9 +17,9 @@ Running the Application
 To build and run the application, follow these steps:
 
     1 - Open the friend-reminder folder.
-    2 - Run mvn clean package.
+    2 - Run: mvn clean package.
     3 - Open the target folder.
-    4 - Run java -jar friend-reminder-1.0.0.jar.
+    4 - Run: java -jar friend-reminder-1.0.0.jar.
 
 The initial application has already been built. If you do not want to compile it, simply proceed from step 3.    
 
