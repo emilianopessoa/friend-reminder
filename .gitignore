@@ -4,6 +4,7 @@
 /target/maven-status/
 /target/surefire-reports/
 /target/friend-reminder-0.0.1-SNAPSHOT.jar.original
+/target/friend-reminder-1.0.0.jar.original
 /target/classes/
 /target/test-classes/
 .settings
